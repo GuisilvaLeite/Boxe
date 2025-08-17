@@ -86,12 +86,12 @@ h2 {
 }
 
 .fundo-galeria {
-  background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+  background:var(--laranja);
   background-size: 180px;
 }
 
 #contato {
-  background: url('img/4965007.jpg') cover no-repeat;
+  background:var(--amarelo);
   padding: 4rem 0;
 }
 
@@ -99,15 +99,6 @@ h2 {
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 0 10px #0001;
-  font-weight: bold;
-}
-
-.formulario button,
-.alto-contraste .formulario button,
-.alto-contraste .btn-primary,
-.botao-inicio {
-  background: #CB6D43;
-  border: none;
   font-weight: bold;
 }
 
@@ -159,7 +150,6 @@ h2 {
 }
 
 .alto-contraste .botao-inicio,
-.alto-contraste .formulario button,
 .alto-contraste .btn-primary {
   background: var(--amarelo);
   color: var(--preto);
