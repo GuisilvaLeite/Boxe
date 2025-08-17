@@ -6,7 +6,13 @@
   --branco: #fff;
   --amarelo: #e40909;
 }
-
+title{
+    border-radius: 80px;
+  width: 100%;
+  height: 606px;
+  padding: 40px;
+  margin: 0 auto;
+}
 body {
   font: 1rem 'Montserrat', sans-serif;
 }
