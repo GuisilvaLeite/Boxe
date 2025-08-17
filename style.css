@@ -82,7 +82,7 @@ h2 {
 }
 
 #galeria {
-  background: #FAF4F4;
+  background: var(--amarelo);
 }
 
 .fundo-galeria {
