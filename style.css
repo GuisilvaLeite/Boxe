@@ -63,8 +63,7 @@ section {
 #boxe {
   position: relative;
   padding-top: 5rem;
-  margin: 3rem 0;
-  background: url('img/flor.png') top right no-repeat, url('img/flor-esquerda.png') bottom left no-repeat;
+  margin: 3rem 0; 
   background-size: 180px;
 }
 
