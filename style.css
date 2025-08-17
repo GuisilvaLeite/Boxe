@@ -67,7 +67,7 @@ section {
   background-size: 180px;
 }
 
-#boxe .container {
+.boxe.container {
   display: flex;
   align-items: center;
   justify-content: center;
