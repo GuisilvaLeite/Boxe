@@ -90,18 +90,6 @@ h2 {
   background-size: 180px;
 }
 
-#contato {
-  background:var(--amarelo);
-  padding: 4rem 0;
-}
-
-.formulario {
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 0 10px #0001;
-  font-weight: bold;
-}
-
 .form-control {
   background: #F1EDEF;
 }
@@ -139,8 +127,7 @@ h2 {
 }
 
 .alto-contraste header,
-.alto-contraste footer,
-.alto-contraste .formulario {
+.alto-contraste footer{
   background: var(--preto);
   color: var(--branco);
 }
